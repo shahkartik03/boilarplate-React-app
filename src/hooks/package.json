@@ -1,0 +1,32 @@
+{
+  "name": "cust-hooks-use-previous",
+  "version": "1.0.2",
+  "description": "This returns the previous value of state while using functional component or any react hook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahkartik03/cust-hooks.git"
+  },
+  "keywords": [
+    "react-hooks",
+    "get",
+    "previous",
+    "state",
+    "custom",
+    "hooks",
+    "cust-hooks",
+    "reactjs"
+  ],
+  "author": "Kartik Shah",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
